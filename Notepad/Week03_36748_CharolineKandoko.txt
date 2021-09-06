@@ -1,0 +1,2 @@
+- Saat button "Kata 1" dipencet maka "Kata 1" akan berubah menampilkan menjadi "Kata 1 pernah diklik" serta akan menampilkan toast "Kata 1 dipilih".
+- Saat floating button add dipencet maka akan menambahkan "Kata 21 telah ditambahkan" pada baris bagian paling bawah.

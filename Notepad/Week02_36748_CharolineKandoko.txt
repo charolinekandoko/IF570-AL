@@ -1,0 +1,1 @@
+Bagian kolom A dan B tidak diperbolehkan kosong karena ketika kosong akan menghentikan program dan tidak dapat dijalankan. Bagian C jika angka dijadikan 0 maka akan menghasilkan infinite.
