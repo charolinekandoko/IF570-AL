@@ -1,0 +1,3 @@
+1. Di dalam intent terdapat 2 jenis yaitu implisit dan eksplisit. Implisit berarti hanya berpindah dari satu activity ke activity lain sedangkan eksplisit berarti berpindah aplikasi. Contohnya membuka link dari suatu aplikasi yang berpindah ke browser untuk membuka link tersebut.
+
+2. Fragment dapat dilakukan dengan dua cara yaitu layout dan programmatic. Caranya beda tetapi menghasilkan output yang sama.
