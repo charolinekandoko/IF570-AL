@@ -1,0 +1,11 @@
+Kesimpulan dari hasil pengujian
+
+Tombol dari Radio Button memiliki fungsi sebagai berikut:
+1. Rect -> menghasilkan bentuk kotak / persegi panjang
+2. Oval -> menghasilkan bentuk oval / lingkaran
+3. Line -> menghasilkan sebuah garis
+4. Path -> menghasilkan garis random mengikuti cursor
+
+Pada bagian bawah terdapat Seek Bar yang terdapat warna Red, Green, dan Blue. Hal ini digunakan untuk mengatur RGB untuk menghasilkan warna yang kita inginkan untuk digunakan dalam menggambar. Hasil warna pengaturan RGB terlihat di Image Button paling kanan bawah.
+
+Terakhir terdapat tombol X dipojok kiri atas yang berfungsi sebagai Clear page. Jadi fungsinya adalah membersihkan halaman menggambar yang menjadi seperti awal bersih tidak tergambar apapun.
