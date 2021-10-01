@@ -1,0 +1,9 @@
+Kesimpulan
+
+Animasi Property akan menampilkan animasi lingkaran yang membesar dan mengecil yang akan diulang sekali lagi ketik layar app diklik.
+
+Animasi Drawable akan menampilkan gambar kuda01 yang sedang diam kemudian ketika layar app diklik maka gambar kuda tersebut akan berubah hingga kuda10 yang membuat kuda tersebut terlihat berlari.
+
+Animasi Berbasis Ilmu Fisika:
+1. Saat tombol "Halo Spring" diklik maka tombol akan bergerak kebawah dan kemudian kembali ke posisi semula.
+2. Saat tombol "Halo Fling" diklik maka tombol akan berputar secara vertical.

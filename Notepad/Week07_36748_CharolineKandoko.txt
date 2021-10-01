@@ -1,0 +1,5 @@
+Kesimpulan
+
+Saat klik tombol Foto dan Video maka aplikasi akan membuka kamera yang ada pada device dan kita dapat mengambil foto yang kita mau serta video. Setelah itu kita dapat melihat hasilnya di galeri.
+
+Pada bagian Galeri Video, tersedia clip video beserta judul yang tersusun rapi secara vertical. Kemudian ketika kita klik salah satu video maka kita akan ditampilkan detail video dan video akan berjalan diiringi dengan suaranya. Setelah itu terdapat tombol kembali yang digunakan untuk balik ke halaman dimana tersedia beberapa clip tersebut.
